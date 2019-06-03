@@ -1,0 +1,4 @@
+#Thu May 30 15:53:32 IST 2019
+base.0=/Volumes/Untitled/Android Studio projects/Easyleases Tenant  APP/Project/easyleases_tenant/build/app/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex
