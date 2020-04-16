@@ -4,11 +4,19 @@ import 'package:easyleases_tenant/widget/common_menu_button.dart';
 import 'package:flutter/material.dart';
 
 class PaymentPage extends StatefulWidget {
+  final String userId;
+
+  PaymentPage(this.userId);
+
   @override
-  _PaymentPageState createState() => _PaymentPageState();
+  _PaymentPageState createState() => _PaymentPageState(userId);
 }
 
 class _PaymentPageState extends State<PaymentPage> {
+  final String userId;
+
+  _PaymentPageState(this.userId);
+
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
@@ -34,8 +42,8 @@ class _PaymentPageState extends State<PaymentPage> {
         ),
         body: TabBarView(
           children: [
-            PaymentDuePage(),
-            PastPaymentPage(),
+            PaymentDuePage(userId),
+            PastPaymentPage(userId),
           ],
         ),
       ),

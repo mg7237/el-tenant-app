@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

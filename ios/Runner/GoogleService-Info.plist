@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>43956489782-pnvcvd0sg09tuji4ia8aeprql5p1kuu9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.43956489782-pnvcvd0sg09tuji4ia8aeprql5p1kuu9</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYEaWFZCnknkU0PyEavB_fD-gydTLXGuM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>43956489782</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.easyleases.app</string>
+	<key>PROJECT_ID</key>
+	<string>easyleases-2dab1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>easyleases-2dab1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:43956489782:ios:eb0b9edc8e517032dc5297</string>
+	<key>DATABASE_URL</key>
+	<string>https://easyleases-2dab1.firebaseio.com</string>
+</dict>
+</plist>

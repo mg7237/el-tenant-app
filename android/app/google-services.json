@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "43956489782",
+    "firebase_url": "https://easyleases-2dab1.firebaseio.com",
+    "project_id": "easyleases-2dab1",
+    "storage_bucket": "easyleases-2dab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43956489782:android:f3e1ec9dd595934bdc5297",
+        "android_client_info": {
+          "package_name": "com.easyleases.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43956489782-tdkbidie850gi49pbo7ipe5ihcvvfrv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW23Ke-4nf-S5t6L3xaut9l2e-w2JqoXM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43956489782-tdkbidie850gi49pbo7ipe5ihcvvfrv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

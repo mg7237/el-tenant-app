@@ -4,6 +4,8 @@
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
+	<key>CFBundleDisplayName</key>
+	<string>Easyleases Tenant</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -20,8 +22,37 @@
 	<string>????</string>
 	<key>CFBundleVersion</key>
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>FDAllFilesDownloadedMessage</key>
+	<string>All files have been downloaded</string>
+	<key>FDMaximumConcurrentTasks</key>
+	<integer>5</integer>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Please give access to use camera to pic image.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>NSMotionUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Please give access to use Photo Library to pic image.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>Give access to use this feature.</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>remote-notification</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>

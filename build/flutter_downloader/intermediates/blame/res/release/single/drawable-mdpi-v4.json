@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/flutter_downloader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/flutter_downloader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/flutter_downloader/intermediates/res/merged/release/drawable-mdpi-v4/ic_download.png",
+        "source": "/Users/mac/Documents/FlutterSdk/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_downloader-1.1.7/android/src/main/res/drawable-mdpi/ic_download.png"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/flutter_downloader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/flutter_downloader/intermediates/res/merged/release/drawable-mdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/flutter_downloader/intermediates/res/merged/release/drawable-mdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/333f0d9d4a1f85c204c46ee8a3138529/core-1.0.1/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

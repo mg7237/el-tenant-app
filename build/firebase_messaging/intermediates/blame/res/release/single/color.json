@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/firebase_messaging/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/mac/.gradle/caches/transforms-2/files-2.1/4fd23f1c0a576ef4883220502e5e1d72/play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

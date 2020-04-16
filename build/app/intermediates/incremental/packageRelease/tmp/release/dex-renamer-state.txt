@@ -1,4 +1,4 @@
-#Thu May 30 15:53:32 IST 2019
-base.0=/Volumes/Untitled/Android Studio projects/Easyleases Tenant  APP/Project/easyleases_tenant/build/app/intermediates/transforms/dexMerger/release/0
+#Mon Mar 16 18:19:19 IST 2020
+base.0=/Volumes/mac/AndroidStudioProjects/Easyleases Tenant  APP/EL-thirdphase/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
